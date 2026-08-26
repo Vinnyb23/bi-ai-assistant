@@ -2,7 +2,7 @@
 
 **Phase 1 flagship project** of a 6-month self-directed AI/ML continuing-education program (following the UT Austin PGP-AI certificate). This phase combines 15 years of BI/SQL experience with ML to ship a "BI + AI fusion" tool: ask a plain-English question, get a live SQL query and chart back, plus a 30-day sales forecast — no manual report-building required.
 
-> Live demo: _add your Streamlit Community Cloud / Hugging Face Spaces link here after deploying (Week 6)_
+> Live demo: (https://huggingface.co/spaces/vinnyb23/bi-ai-assistant)
 
 ![Python](https://img.shields.io/badge/python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-app-red)
@@ -136,8 +136,8 @@ Everything downstream only depends on the `sales` table schema (see `src/data_pr
 - [x] Week 2: XGBoost forecasting baseline logged to MLflow
 - [x] Week 3: text-to-SQL layer with safety validation
 - [x] Week 4: Streamlit dashboard combining both
-- [ ] Week 5: expand test coverage, containerize (Dockerfile above is a first pass)
-- [ ] Week 6: deploy a live demo (Hugging Face Spaces or Streamlit Community Cloud), add screenshots below, write the retrospective
+- [X] Week 5: expand test coverage, containerize (Dockerfile above is a first pass)
+- [X] Week 6: deploy a live demo (Hugging Face Spaces or Streamlit Community Cloud), add screenshots below, write the retrospective
 
 ## Screenshots
 
