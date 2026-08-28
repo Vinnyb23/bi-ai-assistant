@@ -1,3 +1,14 @@
+---
+title: BI Copilot
+sdk: streamlit
+emoji: 📊
+colorFrom: blue
+colorTo: red
+python_version: "3.11"
+app_file: src/app.py
+pinned: false
+---
+
 # BI Copilot — Natural-Language BI Assistant
 
 **Phase 1 flagship project** of a 6-month self-directed AI/ML continuing-education program (following the UT Austin PGP-AI certificate). This phase combines 15 years of BI/SQL experience with ML to ship a "BI + AI fusion" tool: ask a plain-English question, get a live SQL query and chart back, plus a 30-day sales forecast — no manual report-building required.
