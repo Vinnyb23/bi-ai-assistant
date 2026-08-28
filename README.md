@@ -152,7 +152,8 @@ Everything downstream only depends on the `sales` table schema (see `src/data_pr
 
 ## Screenshots
 
-_Add a screenshot or GIF of the Forecast tab and the Ask Your Data tab here once you run the app (Week 6 polish task)._
+<img width="1909" height="933" alt="image" src="https://github.com/user-attachments/assets/3ba82d80-c50e-41b0-be40-66e6ce08fda7" />
+<img width="1909" height="929" alt="image" src="https://github.com/user-attachments/assets/a1eb1a42-a765-4c0d-85b4-a990ec46acb0" />
 
 ## Part of a larger program
 
